@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(215, 215, 245);
+}
+
+form{
+    width:50%;
+}
+
+.btn{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    width:100px;
+    height:30px;
+    font-size:14px;
+    text-align:center;
+    margin:0 auto;
+    color:rgb(108, 115, 116);
+}
+
+.header{
+    font-size: 72 
+}
+
+.brief{
+    text-align: left;
+}
+
+h1{
+    font-size: 72px;
+}
+
+p{
+    font-size: 24px;
+}
+
+.hero{
+    text-align:center;
+;
+}
+.hero img{
+    max-height:300px;
+}
+
+.logo-wrapper{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    text-align:center;
+    margin:0 auto;
+}
+
+.logo-wrapper img{
+    max-height: 112px;
+    max-width: 112px;
+}
+

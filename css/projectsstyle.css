@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(245, 215, 228);
+}
+
+form{
+    width:50%;
+}
+
+.btn{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    width:100px;
+    height:30px;
+    font-size:14px;
+    text-align:center;
+    margin:0 auto;
+    color:rgb(160, 95, 149);
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.header{
+    font-size: 72 
+}
+
+.brief{
+    text-align: left;
+}
+
+h1{
+    font-size: 72px;
+}
+
+p{
+    font-size: 24px;
+}
+
+.hero{
+    text-align:center;
+}
+.hero img{
+    max-height:300px;
+}
+
+.card-img-top{
+    padding-top:10px;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+}

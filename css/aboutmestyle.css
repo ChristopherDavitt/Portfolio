@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(215, 245, 219);
+}
+
+form{
+    width:50%;
+}
+
+.btn{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    width:100px;
+    height:30px;
+    font-size:14px;
+    text-align:center;
+    margin:0 auto;
+    color:rgb(95, 160, 127);
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.header{
+    font-size: 72 
+}
+
+.brief{
+    text-align: left;
+}
+
+h1{
+    font-size: 72px;
+}
+
+p{
+    font-size: 24px;
+}
+
+.hero{
+    text-align:center;
+}
+.hero img{
+    max-height:300px;
+}
+
+.hobbies{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
